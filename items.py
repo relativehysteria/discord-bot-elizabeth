@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.8
+#!/usr/bin/env python
 itemList = [
     "UNIQUE_HIDEOUT",
     "T1_FARM_CARROT_SEED",
